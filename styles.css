@@ -72,7 +72,7 @@ html, body {
     position: relative;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(rgba(7, 101, 133, 0.267), rgba(47, 114, 138, 0.377),  rgba(10, 103, 146, 0.863)),url("fffff.jpg");
+    background: linear-gradient(rgba(7, 101, 133, 0.267), rgba(47, 114, 138, 0.377),  rgba(10, 103, 146, 0.863)),url('fffff.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
